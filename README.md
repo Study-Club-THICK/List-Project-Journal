@@ -11,27 +11,32 @@
 
 - <img src="https://img.shields.io/badge/PLAN-Sistem Absensi dengan Speech Recognition di UKDC-red?style=for-the-badge)">
   
-  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/code831 "Kunjungi Link")
+  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/Study-Club-THICK "Kunjungi Link")
 
 
 - <img src="https://img.shields.io/badge/PLAN-Implementasi Speech To Text untuk Membantu para Tunarungu-red?style=for-the-badge)">
 
-  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/code831 "Kunjungi Link")
+  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/Study-Club-THICK "Kunjungi Link")
 
 
 - <img src="https://img.shields.io/badge/PLAN-Analisis Public Speaking dengan Suara-red?style=for-the-badge)">
 
-  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/code831 "Kunjungi Link")
+  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/Study-Club-THICK "Kunjungi Link")
 
 - <img src="https://img.shields.io/badge/PLAN-Implementasi Speech Recognition pada Gerak Game-red?style=for-the-badge)">
 
-  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/code831 "Kunjungi Link")
+  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/Study-Club-THICK "Kunjungi Link")
 
 
 
 - <img src="https://img.shields.io/badge/PLAN-Sistem Virtual Assistant dengan Suara di UKDC-red?style=for-the-badge)">
 
-  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/code831 "Kunjungi Link")
+  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/Study-Club-THICK "Kunjungi Link")
+  
+
+- <img src="https://img.shields.io/badge/PLAN-Shorted Link di UKDC-red?style=for-the-badge)">
+  
+  - [![Klik Disini](https://img.shields.io/static/v1?label=Link%20Repository&message=View&color=green&logo=github)](https://github.com/Study-Club-THICK "Kunjungi Link")
 
 <p align="center">Support We with Contribute and Donation</p>
 <p align="center">Build on Since 2022</p>
