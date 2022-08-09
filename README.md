@@ -3,6 +3,8 @@
 <H2> Label Format </H2>
 
 <img src="https://img.shields.io/badge/PLAN-NAME%20PROJECT-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/PLAN_ACCEPTED-NAME%20PROJECT-active?style=for-the-badge">
+<img src="https://img.shields.io/badge/PLAN_REJECTED-NAME%20PROJECT-inactive?style=for-the-badge">
 <img src="https://img.shields.io/badge/PROGRESS-NAME%20PROJECT-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/DONE-NAME%20PROJECT-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/MAINTANCE-NAME%20PROJECT-blue?style=for-the-badge">
